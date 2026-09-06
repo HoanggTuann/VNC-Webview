@@ -1,0 +1,6 @@
+{
+  "name": "SecureLink Pro",
+  "description": "Ứng dụng kết nối máy ảo RDP & VNC trên nền Chromium với bảo mật E2EE, xác thực đa yếu tố MFA, sao lưu đám mây và bảng điều khiển quản trị tập trung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
